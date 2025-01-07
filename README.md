@@ -1,6 +1,6 @@
 
 # Fair and Representative Jury Selection for Decentralized Justice
-## The paper can be accessed here: [Link](https://dl.acm.org/doi/10.1145/3700838.3700840)
+### The paper is published as part of the ICDCN '25: Proceedings of the 26th International Conference on Distributed Computing and Networking in ACM Digital Library and can be accessed here: [Link](https://dl.acm.org/doi/10.1145/3700838.3700840)
 ## Author:
 - **Name:** Bhargavi Sriram
 - **Institute Email:** cs21s021@smail.iitm.ac.in
