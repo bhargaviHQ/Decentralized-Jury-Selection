@@ -3,7 +3,7 @@
 
 ## Author:
 - **Name:** Bhargavi Sriram
-- **Email:** cs21s021@smail.iitm.ac.in
+- **Institute Email:** cs21s021@smail.iitm.ac.in
 - **Affiliation:** Department of Computer Science and Engineering, Indian Institute of Technology, Madras
 
 ## Date:
