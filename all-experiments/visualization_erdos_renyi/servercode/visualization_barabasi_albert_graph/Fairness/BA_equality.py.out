@@ -1,0 +1,13 @@
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap', 'graph_tool', 'bayanpy'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'pyclustering', 'ASLPAw'}
+Note: to be able to use all crisp methods, you need to install some additional packages:  {'wurlitzer', 'infomap'}
+Nodes :  100  edges :  2
+Nodes :  250  edges :  2
+Nodes :  500  edges :  2
+Nodes :  750  edges :  2
+Nodes :  500  edges :  2
+Nodes :  500  edges :  2
+Nodes :  500  edges :  2
+Nodes :  500  edges :  2
+Nodes :  500  edges :  2
+Nodes :  500  edges :  2

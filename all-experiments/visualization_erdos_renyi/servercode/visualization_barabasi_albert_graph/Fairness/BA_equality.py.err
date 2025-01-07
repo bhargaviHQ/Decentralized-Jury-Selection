@@ -1,0 +1,16 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/bhargavi/research_code_run/September_BA_model/AugRun/visualization_barabasi_albert_graph/Fairness/BA_equality.py", line 214, in <module>
+    variationOfedges(graph_param_list,xplotList,7,"screenshots_equality/equality_closeness_randomEdge_central.jpg",xplotName)
+  File "/home/bhargavi/research_code_run/September_BA_model/AugRun/visualization_barabasi_albert_graph/Fairness/BA_equality.py", line 176, in variationOfedges
+    algorithm_7[itr] = variationRunAlgo(7,jurySize,graph)
+  File "/home/bhargavi/research_code_run/September_BA_model/AugRun/visualization_barabasi_albert_graph/Fairness/BA_equality.py", line 97, in variationRunAlgo
+    selectedSet = RCL_eigenvector.rclEigenCSelection(graph, jurySize)
+  File "/home/bhargavi/research_code_run/September_BA_model/AugRun/visualization_barabasi_albert_graph/Fairness/../../algorithm_repository/RCL_eigenvector.py", line 11, in rclEigenCSelection
+    deg_centrality = nx.eigenvector_centrality(graphNodes)
+  File "/home/bhargavi/.local/lib/python3.10/site-packages/networkx/classes/backends.py", line 148, in wrapper
+    return func(*args, **kwds)
+  File "<class 'networkx.utils.decorators.argmap'> compilation 20", line 4, in argmap_eigenvector_centrality_17
+  File "/home/bhargavi/.local/lib/python3.10/site-packages/networkx/algorithms/centrality/eigenvector.py", line 138, in eigenvector_centrality
+    raise nx.PowerIterationFailedConvergence(max_iter)
+networkx.exception.PowerIterationFailedConvergence: (PowerIterationFailedConvergence(...), 'power iteration failed to converge within 100 iterations')
