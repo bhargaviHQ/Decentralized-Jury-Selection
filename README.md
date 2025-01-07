@@ -7,7 +7,7 @@
 - **Affiliation:** Department of Computer Science and Engineering, Indian Institute of Technology, Madras
 
 ## Date:
-- **Submission Date:** 7th February, 2024
+- **Thesis Submission Date:** 7th February, 2024
 
 ## Project Overview:
 The research work folder contains the files that have been used in the experiment conducted for the thesis on Fair and Representative Jury Selection Procedure. The folder includes the algorithms, metrics, and synthetic datasets generated to test the algorithms. Additionally, real datasets, such as Ethereum data, have been extracted, and experiments have been run to test the efficiency of the algorithm in terms of fairness and representation using the metrics.
